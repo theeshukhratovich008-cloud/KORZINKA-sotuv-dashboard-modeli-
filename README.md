@@ -31,5 +31,5 @@ Yil, oy, viloyat, kanal, kategoriya va brend bo'yicha.
 Power BI (Power Query, DAX, Data Model, Vizualizatsiya)
 
 ## Fayllar
-- `Korzinka_dashboard.pbix` — Power BI fayli
+- `2276b1dd-9c1a-4152-9da8-e0957de8975f.pbix` — Power BI fayli
 - `dashboard.png` — dashboard skrinshoti
